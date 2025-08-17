@@ -94,6 +94,7 @@ Replace name with one of the following (supported installations).
 - `debian_bullseye`
 - `debian_buster`
 - `debian_bookworm`
+- `debian_trixie`
 - `almalinux_8`
 - `almalinux_9`
 - `rockylinux_8`
